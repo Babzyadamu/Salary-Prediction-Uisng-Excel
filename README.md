@@ -1,6 +1,6 @@
 # Salary-Prediction-Uisng-Excel
 
-
+![](Salary_Prediction_Image.jpg)
 
 
 # Introduction
