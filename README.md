@@ -61,6 +61,11 @@ Next a line of best fit was added to the scatter plot to ascertain the model and
 
 r^2 = 0.8655 means the model 86.55% accurate . It simply tells us how strong our model is.
 
-From the scatter plot, the linear regression model is shown in the image below.
+From the scatter plot, the linear regression model which is similar to the equation of a straight line y = mx + c is shown in the image below.
 
 ![](Linear_Regression_Model.jpg)
+
+Now that we have the model as shown above, the model was tested by defining the model in different cells in excel as shown below.
+
+![](Correlation_formula.jpg)
+
