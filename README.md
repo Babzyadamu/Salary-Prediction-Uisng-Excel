@@ -1,4 +1,4 @@
-# Salary-Prediction-Uisng-Excel
+# Salary-Prediction-Using-Excel
 
 ![](Salary_Prediction_Image.jpg)
 
@@ -90,3 +90,6 @@ Another test was carried out using an experience of 12 years and the result was 
 # Recommendation
 
  - It is important to note that the linear regression model assumes a linear relationship between years of experience and salary. Other factors not included in the model, such as education, job performance, or industry-specific factors, may also impact salaries. Therefore, while the model provides a useful starting point, it should not be considered as the sole determinant of salary decisions.
+
+
+To all new and upcoming data analysts, I hope you find these useful. Don't forget to follow me on my [Github](https://github.com/Babzyadamu/) and [Linkedin](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
