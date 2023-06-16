@@ -48,3 +48,9 @@ The result for r is shown in the image below:
 ![](correlation_output.jpg)
 
 r = 0.93033 simply means there is a strong positive relationship of about 93% between the target and predictor variable.
+
+# Data Visualization
+
+A scatter plot was plotted between the 2 variables to ascertain the relationship. The plot is shown in the image below.
+
+![](Scatter_Plot.jpg)
