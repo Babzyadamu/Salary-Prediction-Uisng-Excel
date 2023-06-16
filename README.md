@@ -9,7 +9,7 @@ This data was gotten from Kaggle and the analysis was carried out using Microsof
 
 # Problem Statement 
 
-The aim of this analysis is to answer the question of a sales company if years of experience has an effect on the salary of employees.
+The aim of this analysis is to build a model & answer the question of a sales company if years of experience has an effect on the salary of employees.
 
 # Skills & Concept used:
 
