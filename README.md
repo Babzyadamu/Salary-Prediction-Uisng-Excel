@@ -58,3 +58,9 @@ A scatter plot was plotted between the 2 variables to ascertain the relationship
 Next a line of best fit was added to the scatter plot to ascertain the model and value for r square(r^2) as shown below.
 
 ![](Scatter_Plot_Model.jpg)
+
+r^2 = 0.8655 means the model 86.55% accurate . It simply tells us how strong our model is.
+
+From the scatter plot, the linear regression model is shown in the image below.
+
+![](Linear_Regression_Model.jpg)
