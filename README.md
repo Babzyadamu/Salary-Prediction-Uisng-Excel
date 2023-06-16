@@ -35,7 +35,16 @@ I carried out transformation by removing blanks from the data so as not to affec
 
 # Linear Regression
 
-A new sheet was created that contains only the target variable and predictor variable data as shown below.
+A new sheet was created that contains only the predictor variable and target variable data as shown below.
 
 ![](Linear_regression_data.jpg)
+
+r was calculated using excel function to ascertain if there is a relation between the 2 variables using the formula shown below.
+
+![](Correlation_formula.jpg)
+
+The result for r is shown in the image below: 
+
+![](correlation_output.jpg)
+
 
