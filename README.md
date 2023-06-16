@@ -19,5 +19,10 @@ The aim of this analysis is to answer the question of a sales company if years o
 - Data Analysis
 - Data Visualization & Design (Using appropriate visuals to send appropriate message to stakeholders)
 
+# Data Source:
+
+A simple Csv file was downloaded from kaggle.com.
+
+
 
 
