@@ -67,5 +67,5 @@ From the scatter plot, the linear regression model which is similar to the equat
 
 Now that we have the model as shown above, the model was tested by defining the model in different cells in excel as shown below.
 
-![](Correlation_formula.jpg)
+![](Model_formula.jpg)
 
