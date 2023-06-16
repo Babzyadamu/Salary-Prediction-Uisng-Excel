@@ -15,6 +15,8 @@ The aim of this analysis is to answer the question of a sales company if years o
 
 - Statistics
 - Linear Regression
+- Coefficient of Correlation (Measures the degree of relationship between 2 variables)
+- Coefficient of Determination (explains how good your model is ie it explains how the difference in one variable can be explained by the difference in the second/other variable )
 - Data Science
 - Data Analysis
 - Data Visualization & Design (Using appropriate visuals to send appropriate message to stakeholders)
