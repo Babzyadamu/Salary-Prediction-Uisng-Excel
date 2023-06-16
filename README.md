@@ -76,3 +76,17 @@ The model was then tested using different years of experience. An experience of 
 Another test was carried out using an experience of 12 years and the result was shown below.
 
 ![](12Years_exp_test.jpg)
+
+# Conclusion
+
+- Strong Relationship: The high R-value of 0.93 indicates a strong positive correlation between years of experience and salary. This means that as the years of experience increase, the salary tends to increase as well.
+
+- Good Fit: The R-squared value of 0.8655 suggests that approximately 86.55% of the variation in salary can be explained by the linear relationship with years of experience. This indicates that the model is a good fit for predicting salaries based on years of experience.
+
+- Predictive Power: With a high R-value and a good fit indicated by the R-squared value, the model can be used to make reasonably accurate predictions of salary based on a person's years of experience.
+
+- Importance of Experience: The model highlights the importance of years of experience in determining salary. It suggests that as employees gain more experience, they can expect their salaries to increase accordingly. 
+
+# Recommendation
+
+ - It is important to note that the linear regression model assumes a linear relationship between years of experience and salary. Other factors not included in the model, such as education, job performance, or industry-specific factors, may also impact salaries. Therefore, while the model provides a useful starting point, it should not be considered as the sole determinant of salary decisions.
