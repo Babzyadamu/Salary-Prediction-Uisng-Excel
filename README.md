@@ -54,3 +54,7 @@ r = 0.93033 simply means there is a strong positive relationship of about 93% be
 A scatter plot was plotted between the 2 variables to ascertain the relationship. The plot is shown in the image below.
 
 ![](Scatter_Plot.jpg)
+
+Next a line of best fit was added to the scatter plot to ascertain the model and value for r square(r^2) as shown below.
+
+![](Scatter_Plot_Model.jpg)
