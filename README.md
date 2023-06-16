@@ -14,6 +14,7 @@ The aim of this analysis is to build a model & answer the question of a sales co
 # Skills & Concept used:
 
 - Statistics
+- Equation of a straight line
 - Linear Regression
 - Coefficient of Correlation (Measures the degree of relationship between 2 variables)
 - Coefficient of Determination (explains how good your model is ie it explains how the difference in one variable can be explained by the difference in the second/other variable )
@@ -31,3 +32,10 @@ A simple Csv file was downloaded from kaggle.com.
 I carried out transformation by removing blanks from the data so as not to affect my final linear regression model. The image below shows the that after transformation
 
 ![](Initial_data.jpg)
+
+# Linear Regression
+
+A new sheet was created that contains only the target variable and predictor variable data as shown below.
+
+![](Linear_regression_data.jpg)
+
