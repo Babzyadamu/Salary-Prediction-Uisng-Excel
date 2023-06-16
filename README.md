@@ -26,6 +26,8 @@ The aim of this analysis is to answer the question of a sales company if years o
 
 A simple Csv file was downloaded from kaggle.com.
 
+# Data Transformation/Cleaning:
 
+I carried out transformation by removing blanks from the data so as not to affect my final linear regression model.
 
 
