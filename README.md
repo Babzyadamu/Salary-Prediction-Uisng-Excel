@@ -28,6 +28,6 @@ A simple Csv file was downloaded from kaggle.com.
 
 # Data Transformation/Cleaning:
 
-I carried out transformation by removing blanks from the data so as not to affect my final linear regression model.
+I carried out transformation by removing blanks from the data so as not to affect my final linear regression model. The image below shows the that after transformation
 
-
+![](Initial_data.jpg)
