@@ -65,7 +65,14 @@ From the scatter plot, the linear regression model which is similar to the equat
 
 ![](Linear_Regression_Model.jpg)
 
-Now that we have the model as shown above, the model was tested by defining the model in different cells in excel as shown below.
+Now that we have the model as shown above, the model was defined in different cells in excel as shown below.
 
 ![](Model_formula.jpg)
 
+The model was then tested using different years of experience. An experience of 5years was put in the model and the result is shown below.
+
+![](5Years_exp_test.jpg)
+
+Another test was carried out using an experience of 12 years and the result was shown below.
+
+![](12Years_exp_test.jpg)
